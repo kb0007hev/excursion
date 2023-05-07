@@ -1,0 +1,39 @@
+body {
+  background-color: #000;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+/* HEADINGS */
+
+.header--white {
+font-weight: normal; 
+font-size: 50px; 
+color: #fff; 
+}
+
+.header--secondary {
+font-size: 42px; 
+font-weight: 300;
+color: #fff; 
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: grey; 
+}
+
+/* LINKS */
+
+.link--green {
+font-size: 16px; 
+color: aquamarine; 
+}
+
+/* FOOTER */
+
+.footer--copyright {
+  font-size: 21px; 
+  color: grey;
+  text-align: right;
+  }
